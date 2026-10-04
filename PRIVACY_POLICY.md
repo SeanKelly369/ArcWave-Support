@@ -1,6 +1,6 @@
 # Privacy Policy for ArcWave
 
-**Effective Date:** October 4, 2024
+**Effective Date:** October 4, 2026
 
 ArcWave ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how ArcWave handles your information when you use our mobile application on **iOS** and **Android** platforms, as well as related services.
 
