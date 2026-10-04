@@ -6,6 +6,7 @@ Welcome to the official support page for **ArcWave**—the local audio player fo
 
 If you encounter a bug, have a feature request, or need assistance:
 
+- **Privacy Policy:** Read our [Privacy Policy](PRIVACY_POLICY.md).
 - **Report an Issue:** Click on the [**Issues**](https://github.com/SeanKelly369/ArcWave-Support/issues) tab above and click **New Issue**.
 - **Contact:** You can also reach out directly via GitHub Issues for support queries.
 
