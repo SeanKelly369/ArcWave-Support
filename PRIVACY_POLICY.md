@@ -53,4 +53,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 ---
 
 ## 7. Contact Us
-If you have any questions or suggestions about our Privacy Policy, please open an issue in our [GitHub Support Repository](https://github.com/SeanKelly369/ArcWave-Support/issues).
+If you have any questions or suggestions about our Privacy Policy, please visit our [GitHub Support Repository](https://github.com/SeanKelly369/ArcWave-Support).
