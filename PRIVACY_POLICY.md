@@ -37,9 +37,8 @@ To support the free version of ArcWave, the application may display standard ban
 
 ---
 
-## 4. Local Storage and Sync
-- **Local Stores:** Playlists and playback progress are stored locally on your device.
-- **Optional Backend Sync:** If configured, an optional local/self-hosted backend sync service may store playlist synchronization data solely for your convenience. No personal data is harvested or sold.
+## 4. Local Storage
+- **On-Device Data:** Playlists, bookmarks, and playback progress are stored securely and exclusively **locally on your device**. No user data is sent to or stored on external servers.
 
 ---
 
